@@ -257,7 +257,7 @@ img {
 
 @media (max-width: 768px) {
   html {
-    font-size: 9px;
+    font-size: 7px;
   }
   .navbar {
     flex-direction: column;

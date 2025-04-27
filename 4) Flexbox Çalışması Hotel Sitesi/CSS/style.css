@@ -98,6 +98,11 @@ img {
   position: relative;
 }
 
+.main-header.blog {
+  background-image: url("../img/bg-2.jpeg");
+  height: 50vh;
+}
+
 .main-header .content {
   display: flex;
   flex-direction: column;
@@ -208,6 +213,17 @@ img {
 .contact h2 {
   font-size: 4rem;
   padding-bottom: 1rem;
+}
+
+/* articles */
+
+.articles {
+  padding: 3rem 5rem;
+}
+
+.article {
+  margin-top: 1.5rem;
+  color: #fff;
 }
 
 /* footer */
